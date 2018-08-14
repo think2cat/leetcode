@@ -8,3 +8,6 @@
 
 ## String
 - [013 罗马数字转整数](/String/013罗马数字转整数/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/roman-to-integer/description/)
+
+## Number
+- [012 整数转罗马数字](/Number/012整数转罗马数字/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/integer-to-roman/description/)

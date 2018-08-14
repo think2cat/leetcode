@@ -2,41 +2,38 @@
  * @param {number} num
  * @return {string}
  */
-var romanToInt = function(s) {
+var intToRoman = function(num) {
 	const defVal = [{
-		'I':1,
-		'IV':4,
+		'IX':9,
 		'V':5,
-		'IX':9
+		'IV':4,
+		'I':1
 	},{
-		
-		'X':1,
-		'XL':4,
-		'L':5,
 		'XC':9,
-	},{		
-		'C':1,
-		'CD':4,
+		'L':5,
+		'XL':4,
+		'X':1
+	},{
+		'CM':9,
 		'D':5,
-		'CM':9
+		'CD':4,
+		'C':1
 	},{
 		'M':1
 	}]
-	let sArr = ('' + s).split(''), ret = []
-	for (let i = sArr.length - 1; i >=0; i--) {
+	let sArr = ('' + num).split(''), ret = []
+	for (let i = 0, l = sArr.length - 1; i < l+1 && l < defVal.length; i++) {
+		sArr[i] = parseInt(sArr[i])
 		while(sArr[i]) {
-			console.log('i', i, sArr[i], defVal[i])
-			for (j in defVal[i]) {
-				console.log('j', j, sArr[i], j, defVal[i][j])
-				if (sArr[i] >= defVal[i][j]){
-					sArr[i] -= defVal[i][j]
+			for (j in defVal[l-i]) {
+				if (sArr[i] >= defVal[l-i][j]){
+					sArr[i] -= defVal[l-i][j]
 					ret.push(j)
-					console.log('push', j, sArr[i])
-					return
+					break;
 				}
 			}
 		}
 	}
-	return ret
+	return ret.join('')
 };
 
