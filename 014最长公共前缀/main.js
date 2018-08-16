@@ -4,6 +4,7 @@
  */
 var longestCommonPrefix = function(strs) {
 	let ret = ''
+	strs.sort((a, b) => a.length - b.length)
 	strs.some((e,index) => {
 		// console.log('index = ',index)
 		if (index === 0) {
