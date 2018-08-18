@@ -8,6 +8,7 @@
 - [011 盛最多水的容器](/011盛最多水的容器/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/container-with-most-water/description/)
 - [014 最长公共前缀](/014最长公共前缀/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/longest-common-prefix/description/)
 - [020 有效的括号](/020有效的括号/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/valid-parentheses/description/)
+- [027 移除元素](/027移除元素/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/remove-element/description/)
 - [350 两个数组的交集 II](/350两个数组的交集II/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)
 - [674 最长连续递增序列](/674最长连续递增序列/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)
 - [771 宝石与石头](/771宝石与石头/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/jewels-and-stones/description/)
