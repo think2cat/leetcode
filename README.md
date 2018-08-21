@@ -12,6 +12,7 @@
 - [027 移除元素](/027移除元素/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/remove-element/description/)
 - [080 删除排序数组中的重复项 II](/080删除排序数组中的重复项II/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 - [350 两个数组的交集 II](/350两个数组的交集II/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)
+- [561 数组拆分 I](/561数组拆分I/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/array-partition-i/description/)
 - [674 最长连续递增序列](/674最长连续递增序列/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)
 - [771 宝石与石头](/771宝石与石头/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/jewels-and-stones/description/)
 
