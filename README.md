@@ -19,6 +19,7 @@
 - [459 重复的子字符串](/459重复的子字符串/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/repeated-substring-pattern/description/)
 - [561 数组拆分 I](/561数组拆分I/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/array-partition-i/description/)
 - [674 最长连续递增序列](/674最长连续递增序列/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)
+- [686 重复叠加字符串匹配](/686重复叠加字符串匹配/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/repeated-string-match/description/)
 - [771 宝石与石头](/771宝石与石头/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/jewels-and-stones/description/)
 
 ## String
