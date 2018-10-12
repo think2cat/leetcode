@@ -27,6 +27,7 @@
 - [686 重复叠加字符串匹配](/686重复叠加字符串匹配/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/repeated-string-match/description/)
 - [771 宝石与石头](/771宝石与石头/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/jewels-and-stones/description/)
 - [682 棒球比赛](/682棒球比赛/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/baseball-game/)
+- [692 前K个高频单词](/692前K个高频单词/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/top-k-frequent-words/)
 
 ## String
 - [013 罗马数字转整数](/013罗马数字转整数/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/roman-to-integer/description/)
