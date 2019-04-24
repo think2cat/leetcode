@@ -17,6 +17,7 @@
 - [121 买卖股票的最佳时机](/121买卖股票的最佳时机/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [122 买卖股票的最佳时机II](/122买卖股票的最佳时机II/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 - [123 买卖股票的最佳时机III](/123买卖股票的最佳时机III/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+- [347 前K个高频元素](/347前K个高频元素/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/top-k-frequent-elements/submissions/)
 - [349 两个数组的交集 I](/349两个数组的交集/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/)
 - [350 两个数组的交集 II](/350两个数组的交集II/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)
 - [405 数字转换为十六进制数](/405数字转换为十六进制数/main.js) | [leetcode-cn](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)
